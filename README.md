@@ -20,7 +20,7 @@
 
 ### 🌸 About me
 
-I'm a final-year **Computer Science** student at Middlesex University (London) who loves the space where **people, products and tech** meet. I just finished a 12-month **AI product placement** where I built evaluation frameworks for an AI assistant, prototyped AI agents and turned testing insights into product improvements.
+I'm a final-year **Computer Science** student at Middlesex University (London) who loves a space where **people, products and tech** meet. I just finished an 11-month **AI product placement** where I built evaluation frameworks for an AI assistant, prototyped AI agents and turned testing insights into product improvements.
 
 ```js
 const patricia = {
